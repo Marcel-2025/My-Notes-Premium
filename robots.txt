@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flondy.github.io/my-notes-landing-page/sitemap.xml
