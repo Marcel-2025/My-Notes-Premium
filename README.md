@@ -22,8 +22,8 @@ Alle Assets werden lokal ausgeliefert. **Keine** externen Schriften, Analytics-S
 2. Dateien aus diesem Ordner in das GitHub-Pages-Veröffentlichungsverzeichnis kopieren (üblicherweise Repository-Root; die Ordnerstruktur beibehalten).
 3. Änderungen committen und pushen.
 4. Unter **Settings → Pages** prüfen, dass `main` / `(root)` oder der verwendete Veröffentlichungsordner ausgewählt ist.
-5. Die Seite unter `https://flondy.github.io/my-notes-landing-page/` prüfen.
-6. In der Google Play Console die Datenschutz-URL bei Bedarf auf `https://flondy.github.io/my-notes-landing-page/datenschutz.html` aktualisieren.
+5. Die Seite unter `https://marcel-2025.github.io/My-Notes-Premium/` prüfen.
+6. In der Google Play Console die Datenschutz-URL bei Bedarf auf `https://marcel-2025.github.io/My-Notes-Premium/datenschutz.html` aktualisieren.
 
 ## Wichtige Prüfungen vor Veröffentlichung
 
